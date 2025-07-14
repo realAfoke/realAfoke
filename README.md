@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Afoke Reality 👋
 
-<!--
-**realAfoke/realAfoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer passionate about building clean, secure, and useful tools for the web.  
+Currently focused on backend systems, APIs, and performance-driven frontend work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#🚀 **Tech Stack**
+- Languages:Python, JavaScript, SQL,PHP
+- Backend: Django, PostgreSQL, REST APIs
+- Frontend: HTML, CSS, Vanilla JS (learning React)
+- Tools: Git,Sockets
+
+**What I'm Learning**
+- Django REST Framework (DRF)
+- PHP
+- Async Python and performance optimization
+- Clean code architecture and testing
+- Building secure authentication systems
+
+ 📌 Projects
+- **CryptoMarket** – A full-featured crypto stock portfolio tracker inspired by Binance & CoinMarketCap.
+- **Authentication System** – Built from scratch using raw Python (no frameworks).
+
+### 📬 Reach Me
+- 📧 ighoafokereality3@gmail.com 
+- 🛠️ Open to collabs and freelance work
+
+> “The goal is not just to write code. The goal is to solve problems and build value.” 💡
